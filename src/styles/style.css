@@ -145,8 +145,14 @@ h3 {
   margin: 0 auto;
   text-align: center;
   position: relative;
-  top: 200px;
+  top: 190px;
 }
+
+.padding-vide-100 {
+  padding-top: 100px;
+  padding-bottom: 90px;
+}
+
 
 #navigation {
   padding: 200px 0 100px;
