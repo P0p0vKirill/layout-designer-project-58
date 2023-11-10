@@ -145,7 +145,7 @@ nav ul {
 .row {
   display: flex;
   column-gap: 30px;
-  padding-bottom: 15px;
+ /*  padding-bottom: 15px; */
 }
 
 .column {
