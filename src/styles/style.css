@@ -35,7 +35,6 @@ html {
   font-family: "Open Sans", serif;
   line-height: 1.6em;
   overflow-x: hidden;
-
 }
 
 body {
@@ -147,7 +146,6 @@ nav ul {
 .row {
   display: flex;
   column-gap: 30px;
- /*  padding-bottom: 15px; */
 }
 
 .column {
